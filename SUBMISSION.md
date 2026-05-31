@@ -1,6 +1,6 @@
 # VOCALLABS PRODUCT INTERN ASSIGNMENT - FINAL SUBMISSION
 
-**Submitted By:** [Your Full Name]  
+**Submitted By:** Kashish Bisht  
 **Submission Date:** May 31, 2026  
 **Assignment:** Product Teardown - Vocallabs AI  
 **Repository:** https://github.com/kashishbish/vocallabs-product-teardown
